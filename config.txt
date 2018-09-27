@@ -1,5 +1,5 @@
-token=باث
-owner=326099411853901824
+token=NDk0OTgwNDI3MzQyMTUxNjgx.Do79ig.We7kKU8LXZkv1AyodidYQCgjRVQ
+owner=494980427342151681
 prefix=1
 game=Type 1play
 stayinchannel=true
