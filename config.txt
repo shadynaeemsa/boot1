@@ -1,6 +1,6 @@
-token=باث
-owner=326099411853901824
-prefix=7
-game=Type 7play
+token=NDk0OTgwNDI3MzQyMTUxNjgx.Do7qrA.v2U5i64_SyyILPWXFgcrgBEetdk
+owner=460813839051784202
+prefix=1
+game=Type 1play
 stayinchannel=true
 songinstatus=true
